@@ -1,0 +1,32 @@
+{
+    "Lua.diagnostics.globals": [
+        "Utility",
+        "Server",
+        "Point",
+        "Rect",
+        "Button",
+        "Client",
+        "ScrollPanel",
+        "Panel",
+        "Image",
+        "ScreenUI",
+        "Input",
+        "Text",
+        "GridPanel",
+        "unit",
+        "json",
+        "unpack",
+        "bit32",
+        "LibStub",
+        "Color",
+        "rand",
+        "Camera",
+        "DpadController",
+        "AI_INIT",
+        "AI_UPDATE",
+        "Sprite"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global"
+    ]
+}
