@@ -1,2 +1,2 @@
-# neko-syntax-vscode
-neko syntax for vscode
+# vscode-settings-for-nekoland
+vscode-settings-for-nekoland
